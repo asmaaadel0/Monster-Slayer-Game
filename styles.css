@@ -44,7 +44,7 @@ section {
   padding: 0.5rem;
   margin: 1rem auto;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
-  border-radius: 12px;
+  border-radius: 1rem;
 }
 
 #monster h2,
@@ -66,7 +66,7 @@ button {
   background-color: #dd169b;
   color: white;
   padding: 1rem 2rem;
-  border-radius: 12px;
+  border-radius: 1rem;
   margin: 1rem;
   width: 12rem;
   cursor: pointer;
