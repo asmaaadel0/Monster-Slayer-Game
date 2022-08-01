@@ -3,7 +3,7 @@
 A simple game using Vue.js, HTML and CSS.
 ====
 
-### gaming system
+## gaming system
 
 There are two healthbars, 'one for your healt and the other for monster health' and the button 'Start game'. When you click this button, the game starts and another buttons replace this one:
 - Attack: both monster and player commit some attacks and the helathbars start to decline.
