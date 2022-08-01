@@ -9,6 +9,7 @@ const app = Vue.createApp({
       currentRound: 0,
       winner: null,
       messagesLog: [],
+      firstPlay:true,
     };
   },
   watch: {
@@ -51,6 +52,7 @@ const app = Vue.createApp({
       this.currentRound = 0;
       this.winner = null;
       this.messagesLog = [];
+      this.firstPlay=false;
     },
     attackMonster() {
       this.currentRound++;

@@ -29,13 +29,14 @@
           <div class="healthbar__value" :style="playerBarStyles"></div>
         </div>
       </section>
-      <section class="container" v-if="winner">
-        <h2>Game Over!</h2>
+      <section class="container" v-if="winner || firstPlay">
+        <h2 v-if="winner">Game Over!</h2>
         <h3 v-if="winner==='monster'">You Lost!</h3>
         <h3 v-else-if="winner==='player'">You Won</h3>
-        <h3 v-else>It's a Draw</h3>
+        <h3 v-else-if="winner==='draw'">It's a Draw</h3>
+        <h3 v-else></h3>
         <button @click="startGame()">Start New Game</button>
-      </section>
+      </section >
       <section id="controls" v-else>
         <button @click="attackMonster()">ATTACK</button>
         <button @click="specialAttackMonster()" :disabled="mayUseSpecialAttack">
@@ -49,7 +50,7 @@
         <ul>
           <li v-for="message in messagesLog">
             <span
-            :class="{'log--player': message.actionBy === 'player' , 'log--monster':message.actionBy === 'monster'}"
+              :class="{'log--player': message.actionBy === 'player' , 'log--monster':message.actionBy === 'monster'}"
               >{{message.actionBy === 'player' ? 'Player' : 'Monster'}}
             </span>
             <span v-if="message.actionType === 'heal'"
