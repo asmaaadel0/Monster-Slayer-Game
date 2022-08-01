@@ -14,6 +14,7 @@ There are two healthbars, 'one for your healt and the other for monster health' 
 - give up: you can finish the game and after clicking this button you return to the main menu where you can click the button 'Start game' again and try yourself one more time.
 <br/>
 In the end of page there is a Battle Log to see log messages
+
 ## Website link:
 
 ## screen Shot from the game:
