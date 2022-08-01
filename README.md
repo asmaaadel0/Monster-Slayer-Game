@@ -17,11 +17,11 @@ In the end of page there is a Battle Log to see log messages
 ## Website link:
 
 ## screen Shot from the game:
-![image](https://user-images.githubusercontent.com/88618793/182143193-b4fb1d94-b311-45d4-85bc-a0961976620c.png)
+- ![image](https://user-images.githubusercontent.com/88618793/182143193-b4fb1d94-b311-45d4-85bc-a0961976620c.png)
 ## When one of the players wins!
-![image](https://user-images.githubusercontent.com/88618793/182143625-543d61a8-9952-4f7c-aea6-4e2d2a5c6502.png)
+- ![image](https://user-images.githubusercontent.com/88618793/182143625-543d61a8-9952-4f7c-aea6-4e2d2a5c6502.png)
 ## Battle Log:
-![image](https://user-images.githubusercontent.com/88618793/182143988-b949a30e-3f44-4192-877e-6d19dfa4d1c7.png)
+- ![image](https://user-images.githubusercontent.com/88618793/182144110-475b7291-268d-4e66-ab6d-fba1075e89f2.png)
 
 
 
