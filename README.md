@@ -1,6 +1,6 @@
 # Monster Slayer Game
 
-### About
+## About
 
 
 It's a simple game using Vue.js, HTML and CSS.
