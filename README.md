@@ -29,7 +29,7 @@ In the end of page there is a Battle Log to see log messages
 
  ![image](https://user-images.githubusercontent.com/88618793/182143193-b4fb1d94-b311-45d4-85bc-a0961976620c.png)
 
- <h3 align='left'>When one of the players wins</h3>
+ <h3 align='left'>When the player wins</h3>
 
 ![image](https://user-images.githubusercontent.com/88618793/182144298-4540fb25-151a-49aa-aff4-a6e3d156d9c1.png)
 
