@@ -3,7 +3,7 @@
 - [About](#about)
 - [Gaming System](#gaming-system)
 - [Website link](#link)
-- [screen Shot from the game](#screen-shots)
+- [ScreenShots from the game](#screen-shots)
 - [Contributors](#Contributors)
 
 ## About <a name = "about"></a>
@@ -11,7 +11,7 @@
 
 ## Gaming System <a name = "#gaming-system"></a>
 
-There are two healthbars, 'one for your healt and the other for monster health' and the button 'Start game'. When you click this button, the game starts and another buttons replace this one:
+There are two healthbars, one for your healt and the other for monster health' and the button 'Start game'. When you click this button, the game starts and another buttons replace this one:
 - Attack: both monster and player commit some attacks and the helathbars start to decline.
 - Special attack: it is something like ultimate for player, no actions are commited while ultimate is being used, so it's only player who makes some damage to monster.
 - heal: you can use this skill only three times during the match .
@@ -24,7 +24,7 @@ In the end of page there is a Battle Log to see log messages
 -  https://asmaaadel0.github.io/Monster-Slayer-Game/
 
 
- ## screen Shot from the game: <a name = "screan-shots"></a>
+ ## ScreenShots from the game: <a name = "screan-shots"></a>
 <h3 align='left'>Main Screen</h3>
 
  ![image](https://user-images.githubusercontent.com/88618793/182143193-b4fb1d94-b311-45d4-85bc-a0961976620c.png)
