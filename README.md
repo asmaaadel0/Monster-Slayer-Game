@@ -1,6 +1,5 @@
 ## 📝 Table of Contents
 
-- [📝 Table of Contents](#-table-of-contents)
 - [About <a name = "about"></a>](#about-)
 - [Gaming System <a name = "gaming-system"></a>](#gaming-system-)
 - [Website link <a name = "link"></a>](#website-link-)
