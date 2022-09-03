@@ -1,10 +1,11 @@
 ## 📝 Table of Contents
 
-- [About](#about)
-- [Gaming System](#gaming-system)
-- [Website link](#link)
-- [ScreenShots from the game](#screen-shots)
-- [Contributors](#Contributors)
+- [📝 Table of Contents](#-table-of-contents)
+- [About <a name = "about"></a>](#about-)
+- [Gaming System <a name = "gaming-system"></a>](#gaming-system-)
+- [Website link <a name = "link"></a>](#website-link-)
+- [ScreenShots from the game: <a name = "screen-shots"></a>](#screenshots-from-the-game-)
+- [Contributors <a name = "Contributors"></a>](#contributors-)
 
 ## About <a name = "about"></a>
 - Monster Slayer Game is a simple game using Vue.js, HTML and CSS.
@@ -21,7 +22,7 @@ In the end of page there is a Battle Log to see log messages
 
 ## Website link <a name = "link"></a>
 
--  https://asmaaadel0.github.io/Monster-Slayer-Game/
+-  https://monster-slayer-game-90211.web.app/
 
 
  ## ScreenShots from the game: <a name = "screen-shots"></a>
