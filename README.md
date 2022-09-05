@@ -3,7 +3,7 @@
 - [About <a name = "about"></a>](#about-)
 - [Gaming System <a name = "gaming-system"></a>](#gaming-system-)
 - [Website link <a name = "link"></a>](#website-link-)
-- [ScreenShots from the game: <a name = "screen-shots"></a>](#screenshots-from-the-game-)
+- [ScreenShots from the game <a name = "screen-shots"></a>](#screenshots-from-the-game-)
 - [Contributors <a name = "Contributors"></a>](#contributors-)
 
 ## About <a name = "about"></a>
